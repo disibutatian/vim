@@ -1,0 +1,2 @@
+1 执行 start.sh 脚本
+2 打开 vim,执行:PluginInstall
