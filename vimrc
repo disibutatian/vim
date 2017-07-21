@@ -65,3 +65,8 @@ set showmatch   "显示括号配对情况
 set cin    "使用“V”命令选中一段文本后，按“=”将这段文本重新调整缩进格式
 set cino=:0g0t0(sus  "设定 C/C++ 风格自动缩进的选项
 set ai     "打开普通文件类型的自动缩进
+
+
+"快捷键
+map <F6> :NERDTreeToggle<CR>
+
