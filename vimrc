@@ -27,6 +27,7 @@ Plugin 'VundleVim/Vundle.vim'
 " Plugin 'ascenator/L9', {'name': 'newL9'}
  Plugin 'https://github.com/scrooloose/nerdtree'
  Plugin 'https://github.com/majutsushi/tagbar'
+ Plugin 'https://github.com/fatih/vim-go'
 
 
  " All of your Plugins must be added before the following line
